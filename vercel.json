@@ -5,7 +5,7 @@
       "use": "@vercel/python"
     },
     {
-      "src": "api/main.py",
+      "src": "app/main.py",
       "use": "@vercel/python"
     }
   ],
@@ -16,7 +16,7 @@
     },
     {
       "src": "/api",
-      "dest": "/api/main.py"
+      "dest": "/app/main.py"
     }
   ]
 }
