@@ -15,7 +15,7 @@
       "dest": "/login.py"
     },
     {
-      "src": "/api",
+      "src": "/app",
       "dest": "/app/main.py"
     }
   ]
