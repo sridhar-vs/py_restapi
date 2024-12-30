@@ -16,7 +16,7 @@
     }
     {
       "src": "/api",
-      "dest": "api/main.py"
+      "dest": "/api/main.py"
     }
   ]
 }
